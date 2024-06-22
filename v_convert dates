@@ -6,7 +6,7 @@ import java.time.format.DateTimeFormatter;
 public class ConvertDate {
 
     public static void main(String[] args) {
-        // Input Gregorian date
+        // Input Gregorian date.01
         LocalDate gregorianDate = LocalDate.of(2024, 3, 6); // Example: March 6, 2024
 
         // Convert Gregorian to Persian (Shamsi)
